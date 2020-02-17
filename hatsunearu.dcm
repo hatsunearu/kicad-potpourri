@@ -6,12 +6,6 @@ K LED RGB diode
 F ~
 $ENDCMP
 #
-$CMP LED_RGB_EP
-D RGB LED, 6 pin package with exposed pad
-K LED RGB diode
-F ~
-$ENDCMP
-#
 $CMP TPS92513
 D 1.5A Buck LED Driver with Integrated Analog Current Adjust
 K LED, buck, power
