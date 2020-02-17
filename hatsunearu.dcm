@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS92513
+D 1.5A Buck LED Driver with Integrated Analog Current Adjust
+K LED, buck, power
+$ENDCMP
+#
+#End Doc Library
