@@ -1,9 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BQ25886
+D Standalone, 2-Cell, 2-A Boost-Mode Battery Charger
+K charger, battery
+$ENDCMP
+#
 $CMP LED_RGBW_EP
 D RGB LED, 6 pin package with exposed pad
 K LED RGB diode
 F ~
+$ENDCMP
+#
+$CMP LM3414
+D LED Driver, 1-A, 60-W Common Anode-Capable Constant Current Buck
+K LED, Buck
+$ENDCMP
+#
+$CMP STM32G030CxT
+F DOCUMENTATION
 $ENDCMP
 #
 $CMP TPS92513
